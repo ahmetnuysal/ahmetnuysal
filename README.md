@@ -11,7 +11,7 @@ University of the Turkish Aeronautical Association<br>Undergraduate Electrical a
 ![](https://github-readme-stats.vercel.app/api?username=Ahmetnuysal&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmetnuysal&theme=dark&hide_border=true)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmetnuysal&theme=vue))<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+![](https://github-readme-stats.vercel.app/api/top-langs/?Ahmetnuysal={Ahmetnuysal})
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmetnuysal&icon=0&color=0)](https://visitcount.itsvg.in)
