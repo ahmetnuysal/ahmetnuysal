@@ -1,5 +1,5 @@
 # 💫 About Me:
-University of the Turkish Aeronautical Association<br>Undergraduate Electrical and Electronics Engineering Student
+Electrical and Electronics Engineer / IT Engineer
 
 
 ## 🌐 Socials:
